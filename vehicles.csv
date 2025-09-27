@@ -1,4 +1,2 @@
-certificate_number,issue_date,seller_name,buyer_name,vehicle_make,vehicle_model,vehicle_year,vin_number,license_plate,odometer_reading
-COC-20241201-001,2024-12-01,John Smith,Alice Johnson,Toyota,Camry,2020,1HGCM82633A123456,ABC123,45000
-COC-20241201-002,2024-12-01,Sarah Wilson,Mike Brown,Honda,Civic,2019,2HGFA16527H543210,DEF456,32000
-COC-20241201-003,2024-12-01,David Lee,Emily Chen,Ford,Focus,2021,3FA6P0H97HR123789,GHI789,15000
+seller_name,buyer_name,vehicle_make,vehicle_model,vehicle_year,vin_number,license_plate,odometer_reading
+John Smith,Alice Johnson,Toyota,Camry,2020,1HGCM82633A123456,ABC123,45000
